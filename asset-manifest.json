@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NutrIA-Dashboard/static/css/main.5429359b.css",
+    "main.js": "/NutrIA-Dashboard/static/js/main.8172b37e.js",
+    "static/js/453.cdcfec1e.chunk.js": "/NutrIA-Dashboard/static/js/453.cdcfec1e.chunk.js",
+    "static/media/ia.png": "/NutrIA-Dashboard/static/media/ia.8e24137551aac2deb6b2.png",
+    "static/media/recomposicion.png": "/NutrIA-Dashboard/static/media/recomposicion.79e0546505b64088a1f3.png",
+    "static/media/superavit.png": "/NutrIA-Dashboard/static/media/superavit.bd394559b350e5defd89.png",
+    "static/media/deficit.png": "/NutrIA-Dashboard/static/media/deficit.36fe97e1188c0d0db70a.png",
+    "static/media/proteinas.png": "/NutrIA-Dashboard/static/media/proteinas.1a8aa36baa9e6260ab77.png",
+    "static/media/grasas.png": "/NutrIA-Dashboard/static/media/grasas.fa1677bb21312d4b5afd.png",
+    "static/media/carbs.png": "/NutrIA-Dashboard/static/media/carbs.a08b782ebf40a4ef8b3a.png",
+    "index.html": "/NutrIA-Dashboard/index.html",
+    "main.5429359b.css.map": "/NutrIA-Dashboard/static/css/main.5429359b.css.map",
+    "main.8172b37e.js.map": "/NutrIA-Dashboard/static/js/main.8172b37e.js.map",
+    "453.cdcfec1e.chunk.js.map": "/NutrIA-Dashboard/static/js/453.cdcfec1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5429359b.css",
+    "static/js/main.8172b37e.js"
+  ]
+}
